@@ -1,35 +1,42 @@
-# Welcome Vibe Coders!
+# 🎉 Welcome, Vibe Coders!
 
-👋🏼 Hey there **awesome colleague**.
+👋🏼 Hey there, curious colleague.
 
-Here you can get your hands on a set of **Vibe Code Exercises** to complement the Vibe Code Talk. Hope you like them. No need to pick them in chronological order, you can start with any app / idea that speaks most to you.
+You've landed in the right place to get your hands dirty with some ✨ Vibe Code Exercises ✨ — fun little creative experiments to explore during (or further after) this Vibe Code Lunch. No need to follow any strict order — just pick the one that sparks your interest first and start vibin'.
 
-#### The exercises
+## 👇🏼 The Exercises
 
-TODO SET LINKS HERE
+- [🍽️ Order Up! – The Interactive Menu Card](./1-menu-card/README.md)
+- [🌌 Our Solar System – A Vibe-Coding Voyage](./2-solar-system/README.md)
+- [☁️ Weather, or Not – Your Personal Forecast Vibe](./3-weather-widget/README.md)
+- [🎮 Bonus! – Build Your Own Game](./bonus-build-a-game/README.md)
+- [🏋️‍♀️ Bonus! – Vibe-Fit Coach™](./bonus-fitness-tracker/README.md)
 
-## Your profile or technical skill doesn't really matter 😉
+Each one is a mini creative playground. Some are chill. Some are bold.A few are downright weird. All of them are built to inspire.
 
-It does not really matter if you are a Technical Guru, a Storytelling Journalist, a Driven Architect, a Modern Pixel Designer or Nerdy Data Scientist.
+## 🧠 Your background doesn't really matter 😉 — your curiosity is the key
 
-Vibe coding ✨ is for everyone! 🚀
+Whether you're a seasoned developer, a storytelling journalist, a modern pixel-slinger, a data wizard, or someone who just likes pressing buttons until cool things happen — you're welcome here.
 
-The goal is certainly **not to finish them all**. It is to have fun vibe coding and experiencing how well or how bad some models can help you in your journey. Use the tools you have learned about, or if you have already experimented before use tools you are accustomed to.
+Vibe coding is for everyone! 🎉
 
-## Pairing is caring 🤝🏼
+_The goal isn’t to finish all the exercises.
+It’s to explore, play, and get a feel for what today’s tech (and your own instincts) can create together. Try out the tools we talked about. Or bring your own favorite toys. This is your sandbox._
 
-If you want you can always team up. It's more fun working in pair mode, developers do it all the time. This way you can get to know each other a little bit better and you can help each other during the code session.
+## 🤝 Pairing is Caring
 
-## Some Ground Rules 👇🏼
+Feel like teaming up? Do it! 🤗
 
-- Use whatever models or service you like, **but don't share sensitive data
-  (duh!)**
-- Again, **it's not really a contest** and the exercises are not set in chronological order, however the 'bonus ones' are considered to be bigger exercises.
-- When something is not working for you, or you are stuck, please ask for help!
-- When you are on a roll and are creating something cool, you can **share it with the group later on**.
-- Some exercises can have of course multiple outcomes, they are meant to inspire and to get you started, if you can come up with other features or other extra's, please do!
+Pairing can make things more fun and collaborative. Devs do it all the time — and it's a great way to get to know each other while making cool stuff. One vibes, the other codes. Then switch. Or both vibe. No rules here.
 
-_If there is something you would like to ask, or you have some difficulty setting things up. I'll be happy to help you..._
+## 🧷 A Few Loose Ground Rules
 
-Have fun! And!
-Happy Vibe Coding!
+- 🧠 Use whatever tools, models, or services you want — just don’t paste in sensitive data (seriously… we’re not trying to train Skynet here).
+- 🧭 These aren’t tests or puzzles. There’s no score. Start wherever. The “bonus” ones are just spicier or a bit more involved.
+- 🆘 Stuck? Lost? Keyboard on fire? Ask for help — there’s no shame in debugging together.
+- 📣 Got something cool in progress? Share it with the group! We love shiny things.
+- 🎨 Each exercise is more of a launchpad than a recipe. If you want to go off-script and make it your own — please do!
+
+_Got a question? Hit me up — I’m happy to help you get started, unstuck, or even just cheer you on. Now go on — crack your knuckles, queue the lo-fi beats, and enjoy the ride. 🎶🚀_
+
+👉 Happy Vibe Coding! ✨
