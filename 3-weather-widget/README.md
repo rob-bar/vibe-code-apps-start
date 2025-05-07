@@ -5,7 +5,7 @@ Well, that Belgian weather sure is something, huh? One minute it’s sunny, the 
 ## ⛅️ Your app should let you:
 
 - Select a location — via search, dropdown, or a draggable pin on a map.
-- Display the current weather in style.
+- Display the current weather in style. Maybe find the opportunity to give some good images to inspire your ai coding buddy.
 - Show a 5-day forecast that looks smooth and scrollable.
 - Adapt its vibe to match the mood of the skies — bright, stormy, or mysteriously foggy.
 

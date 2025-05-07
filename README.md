@@ -14,7 +14,7 @@ You've landed in the right place to get your hands dirty with some ✨ Vibe Code
 
 Each one is a mini creative playground. Some are chill. Some are bold. A few are downright weird. All of them are built to inspire.
 
-## 📚 Not Ready to Code Yet?
+## 📚 Not Ready to Vibe Code Yet?
 
 No stress. If you’d rather ease into the vibe before diving in hands-first, check out some of the [📖 Resources](./RESOURCES.md) from the talk.
 
@@ -37,7 +37,7 @@ Vibe coding is for everyone! 🎉
 _The goal isn’t to finish all the exercises.
 It’s to explore, play, and get a feel for what today’s tech (and your own instincts) can create together. Try out the tools we talked about. Or bring your own favorite toys. This is your sandbox._
 
-## ⚠️ A Few Ground Rules
+## ⚠️ A Few Loose Ground Rules
 
 - 🧠 Use whatever tools, models, or services you want — just don’t paste in sensitive data (seriously… we’re not trying to train Skynet here).
 - 🧭 These aren’t tests or puzzles. There’s no score. Start wherever. The “bonus” ones are just spicier or a bit more involved.
